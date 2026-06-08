@@ -1,6 +1,6 @@
 # Hey, I'm Marshal!
 
-I'm currently a Full Stack Developer III at [FedEx](https://www.fedex.com/en-us/about.html). Right now, I'm primarily focused on modernizing legacy applications & am learning a lot along the way. My day-to-day typically involves working with Java, Spring Boot, and Angular.
+I'm currently a Full Stack Developer Advisor at [FedEx](https://www.fedex.com/en-us/about.html). Right now, I'm primarily focused on modernizing legacy applications & am learning a lot along the way. My day-to-day typically involves working with Java, Spring Boot, and Angular.
 
 ## Skills & Technologies
 - **Languages**: Java, JavaScript/TypeScript, C#
